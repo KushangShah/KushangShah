@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/KushangShah).
 
-- 📝 I regularly write Code on [GitHub](GitHub)
+- 📝 I regularly write Code on [Colab](https://colab.research.google.com/), [VS Code](https://code.visualstudio.com/)
 
 - 💬 Ask me about **Python**
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://linktr.ee/Kushang.Shah](https://linktr.ee/Kushang.Shah)
 
-- ⚡ Fun fact **I think I am Funny!**
+- ⚡ Fun fact **Even If I like Python language, I Don't think I can talk to Voldemort's Pet and convince her to write the code for me. lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
