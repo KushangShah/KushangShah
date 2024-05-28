@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushang Shah</h1>
 <h3 align="center">A passionate Python Coder from India.</h3>
 
-- 🔭 I’m currently working on [Applied Statistics](https://github.com/KushangShah/Applied-Statistics-Interview-Grind-Applied-Statistics).
+
 
 - 🌱 I’m currently learning [Data Science from AlmaBetter](https://www.almabetter.com/bytes?&courseSlug=full-stack-web-development&utm_source=Inorganic_google&utm_medium=web_development&utm_campaign=Brand|Web_dev|New&utm_content=Almabetter_Exact&utm_term=text_ad&gad_source=1&gclid=Cj0KCQjwxqayBhDFARIsAANWRnTaIwtsfzU_hMqYFs5xiS2XTgxfn5efvnVDbdWomhmjlvDrCXTUSpMaApiFEALw_wcB).
 
