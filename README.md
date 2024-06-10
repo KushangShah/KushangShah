@@ -47,7 +47,7 @@
 <a href="https://linkedin.com/in/kushang-s-388959268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushang" height="30" width="40" /></a>
 <a href="https://instagram.com/bhootiya.renderr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhootiya.renderr" height="30" width="40" /></a>
 </p>
-
+<br><br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushang" alt="kushang" /></a> </p>
 
 <h3 align="left">Support:</h3>
