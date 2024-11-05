@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **click on belowe link**
-
 - 📄 Know about my experiences [https://linktr.ee/Kushang.Shah](https://linktr.ee/Kushang.Shah)
 
 - ⚡ Fun fact **Even If I like Python language, I Don't think I can talk to Voldemort's Pet and convince her to write the code for me. lol**
