@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushang Shah</h1>
+
+<p align='center'>Intern at Unified Mentors</p>
+
 <!-- <h3 align="center">A passionate Python Coder from India.</h3> -->
 
 ---
